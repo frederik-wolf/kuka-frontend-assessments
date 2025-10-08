@@ -36,6 +36,10 @@ These tools will make your development experience much smoother.
 Each part is self-contained.  
 Before starting, navigate into the folder of the part you’re working on (e.g. `part-1`, `part-2`, or `part-3`) and run:
 
+```
+npm install
+```
+
 ### 🌐 Running the Preview
 
 Once dependencies are installed, you can start a local development server for that part by running:
