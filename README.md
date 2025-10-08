@@ -66,6 +66,19 @@ This is not about perfection, but about seeing how you approach and solve proble
 
 ---
 
+## 📤 Submission Instructions
+
+To submit your completed assessment:
+
+1. **Fork this repository** to your own GitHub account, or **clone it** and push to your own repository
+2. Complete all three parts of the assessment
+3. **Push your solutions** to your repository
+4. **Send us the link** to your repository containing the completed assessment
+
+Make sure your repository is **public** so we can review your work.
+
+---
+
 ## 🚀 Let's Get Started
 
 Head over to **Part 1** and begin your journey.  
